@@ -1,7 +1,7 @@
 # JOGO DA MEMÓRIA DE COMBATE - P10.2
 
 ## BASE
-1- [ ] criar interface com html  
+1- [x] criar interface com html  
 	[ ] vida do jogador e quantidade de monstros derrotados  
 	[ ] imagem do monstro  
 	[ ] fraquezas possíveis  
